@@ -3,7 +3,7 @@
   "children": [
     {
       "name": "Rajasthan",
-      "color": "#ffff",
+      "color": "#4aaaea",
       "children": [
         {
           "name": "VDF",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Madhya Pradesh",
-      "color": "#ffff",
+      "color": "#f575a3",
       "children": [
         {
           "name": "VDF",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Maharashtra",
-      "color": "#ffff",
+      "color": "#00acad",
       "children": [
         {
           "name": "VDF",
