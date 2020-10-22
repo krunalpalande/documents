@@ -1,0 +1,156 @@
+Country,Region,CO2
+VDF1,Rajasthan,78
+MDF2,Rajasthan,4342
+OF3,Rajasthan,12210
+Scrub4,Rajasthan,4760
+NF5,Rajasthan,320849
+VDF6,Madhya Pradesh,6676
+MDF7,Madhya Pradesh,34341
+OF8,Madhya Pradesh,36465
+Scrub9,Madhya Pradesh,6002
+NF10,Madhya Pradesh,224768
+VDF11,Maharashtra,8721
+MDF12,Maharashtra,20572
+OF13,Maharashtra,21485
+Scrub14,Maharashtra,4256
+NF15,Maharashtra,252679
+VDF16,Uttar Pradesh,2617
+MDF17,Uttar Pradesh,4080
+OF18,Uttar Pradesh,8109
+Scrub19,Uttar Pradesh,587
+NF20,Uttar Pradesh,225535
+VDF21,Jammu and Kashmir,4281
+MDF22,Jammu and Kashmir,8612
+OF23,Jammu and Kashmir,10719
+Scrub24,Jammu and Kashmir,548
+NF25,Jammu and Kashmir,198076
+VDF26,Gujarat,378
+MDF27,Gujarat,5092
+OF28,Gujarat,9387
+Scrub29,Gujarat,2994
+NF30,Gujarat,178393
+VDF31,Karnataka,4501
+MDF32,Karnataka,21048
+OF33,Karnataka,13026
+Scrub34,Karnataka,4484
+NF35,Karnataka,148732
+VDF36,Andhra Pradesh,1994
+MDF37,Andhra Pradesh,13938
+OF38,Andhra Pradesh,13205
+Scrub39,Andhra Pradesh,8255
+NF40,Andhra Pradesh,125576
+VDF41,Odisha,6970
+MDF42,Odisha,21552
+OF43,Odisha,23097
+Scrub44,Odisha,4327
+NF45,Odisha,99761
+VDF46,Chhattisgarh,7068
+MDF47,Chhattisgarh,32198
+OF48,Chhattisgarh,16345
+Scrub49,Chhattisgarh,610
+NF50,Chhattisgarh,78971
+VDF51,Tamil Nadu,3605
+MDF52,Tamil Nadu,11030
+OF53,Tamil Nadu,11729
+Scrub54,Tamil Nadu,715
+NF55,Tamil Nadu,102981
+VDF56,Telangana,1608
+MDF57,Telangana,8787
+OF58,Telangana,10187
+Scrub59,Telangana,3615
+NF60,Telangana,87880
+VDF61,Bihar,333
+MDF62,Bihar,3280
+OF63,Bihar,3693
+Scrub64,Bihar,250
+NF65,Bihar,86607
+VDF66,West Bengal,3019
+MDF67,West Bengal,4160
+OF68,West Bengal,9723
+Scrub69,West Bengal,146
+NF70,West Bengal,71704
+VDF71,Arunachal Pradesh,21095
+MDF72,Arunachal Pradesh,30557
+OF73,Arunachal Pradesh,15036
+Scrub74,Arunachal Pradesh,229
+NF75,Arunachal Pradesh,16826
+VDF76,Jharkhand,2603
+MDF77,Jharkhand,9687
+OF78,Jharkhand,11321
+Scrub79,Jharkhand,688
+NF80,Jharkhand,55417
+VDF81,Assam,2795
+MDF82,Assam,10279
+OF83,Assam,15253
+Scrub84,Assam,173
+NF85,Assam,49938
+VDF86,Himachal Pradesh,3113
+MDF87,Himachal Pradesh,7126
+OF88,Himachal Pradesh,5195
+Scrub89,Himachal Pradesh,315
+NF90,Himachal Pradesh,39924
+VDF91,Uttarakhand,5047
+MDF92,Uttarakhand,12805
+OF93,Uttarakhand,6451
+Scrub94,Uttarakhand,383
+NF95,Uttarakhand,28797
+VDF96,Punjab,8
+MDF97,Punjab,801
+OF98,Punjab,1040
+Scrub99,Punjab,33
+NF100,Punjab,48750
+VDF101,Haryana,28
+MDF102,Haryana,451
+OF103,Haryana,1123
+Scrub104,Haryana,154
+NF105,Haryana,42456
+VDF106,Kerala,1935
+MDF107,Kerala,9508
+OF108,Kerala,9701
+Scrub109,Kerala,13
+NF110,Kerala,17695
+VDF111,Meghalaya,489
+MDF112,Meghalaya,9267
+OF113,Meghalaya,7363
+Scrub114,Meghalaya,600
+NF115,Meghalaya,4710
+VDF116,Manipur,905
+MDF117,Manipur,6386
+OF118,Manipur,9556
+Scrub119,Manipur,1181
+NF120,Manipur,4299
+VDF121,Mizoram,157
+MDF122,Mizoram,5801
+OF123,Mizoram,12048
+Scrub124,Mizoram,1
+NF125,Mizoram,3074
+VDF126,Nagaland,1273
+MDF127,Nagaland,4534
+OF128,Nagaland,6679
+Scrub129,Nagaland,635
+NF130,Nagaland,3458
+VDF131,Tripura,654
+MDF132,Tripura,5236
+OF133,Tripura,1836
+Scrub134,Tripura,29
+NF135,Tripura,2731
+VDF136,Andaman and Nicobar Islands,5678
+MDF137,Andaman and Nicobar Islands,684
+OF138,Andaman and Nicobar Islands,381
+Scrub139,Andaman and Nicobar Islands,1
+NF140,Andaman and Nicobar Islands,1505
+VDF141,Sikkim,1102
+MDF142,Sikkim,1552
+OF143,Sikkim,688
+Scrub144,Sikkim,307
+NF145,Sikkim,3447
+VDF146,Goa,538
+MDF147,Goa,576
+OF148,Goa,1123
+Scrub149,Goa,0
+NF150,Goa,1465
+VDF151,Delhi,6.72
+MDF152,Delhi,56.42
+OF153,Delhi,132.3
+Scrub154,Delhi,0.3
+NF155,Delhi,1287.26
