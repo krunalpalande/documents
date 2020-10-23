@@ -3,7 +3,7 @@
   "children": [
     {
       "name": "Rajasthan",
-      "color": "#4aaaea",
+      "color": "#00acad",
       "children": [
         {
           "name": "VDF",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Madhya Pradesh",
-      "color": "#f575a3",
+      "color": "#00acad",
       "children": [
         {
           "name": "VDF",
@@ -90,6 +90,254 @@
         {
           "name": "NF",
           "weight": 252679,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 2617,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 4080,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 8109,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 587,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 225535,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 4281,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 8612,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 10719,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 548,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 198076,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 378,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 5092,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 9387,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 2994,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 178393,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 4501,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 21048,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 13026,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 4484,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 148732,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Andhra Pradesh",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 1994,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 13938,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 13205,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 8255,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 125576,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Odisha",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 6970,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 21552,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 23097,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 4327,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 99761,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 7068,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 32198,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 16345,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 610,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 78971,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 3605,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 11030,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 11729,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 715,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 102981,
           "code": "NF"
         }
       ]
