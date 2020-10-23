@@ -341,6 +341,626 @@
           "code": "NF"
         }
       ]
+    },
+    {
+      "name": "Telangana",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 1608,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 8787,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 10187,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 3615,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 87880,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 333,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 3280,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 3693,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 250,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 86607,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "West Bengal",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 3019,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 4160,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 9723,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 146,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 71704,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 21095,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 30557,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 15036,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 229,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 16826,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Jharkhand",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 2603,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 9687,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 11321,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 688,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 55417,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Assam",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 2795,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 10279,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 15253,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 173,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 49938,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Himachal Pradesh",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 3113,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 7126,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 5195,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 315,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 39924,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Uttarakhand",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 5047,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 12805,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 6451,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 383,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 28797,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Punjab",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 8,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 801,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 1040,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 33,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 48750,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Haryana",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 28,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 451,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 1123,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 154,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 42456,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Kerala",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 1935,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 9508,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 9701,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 13,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 17695,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Meghalaya",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 489,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 9267,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 7363,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 600,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 4710,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Manipur",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 905,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 6386,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 9556,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 1181,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 4299,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Mizoram",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 157,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 5801,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 12048,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 1,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 3074,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Nagaland",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 1273,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 4534,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 6679,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 635,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 3458,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Tripura",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 654,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 5236,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 1836,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 29,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 2731,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Andaman and NicobarIslands",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 5678,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 684,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 381,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 1,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 1505,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Sikkim",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 1102,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 1552,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 688,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 307,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 3447,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Goa",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 538,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 576,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 1123,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 0,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 1465,
+          "code": "NF"
+        }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "color": "#00acad",
+      "children": [
+        {
+          "name": "VDF",
+          "weight": 7,
+          "code": "VDF"
+        },
+        {
+          "name": "MDF",
+          "weight": 56,
+          "code": "MDF"
+        },
+        {
+          "name": "OF",
+          "weight": 132,
+          "code": "OF"
+        },
+        {
+          "name": "Scrub",
+          "weight": 0,
+          "code": "SC"
+        },
+        {
+          "name": "NF",
+          "weight": 1287,
+          "code": "NF"
+        }
+      ]
     }
   ]
 }
