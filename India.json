@@ -3,7 +3,7 @@
   "children": [
     {
       "name": "Rajasthan",
-      "color": "#00acad",
+      "color": "#66cccc",
       "children": [
         {
           "name": "VDF",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Madhya Pradesh",
-      "color": "#00acad",
+      "color": "#8a2be2",
       "children": [
         {
           "name": "VDF",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Maharashtra",
-      "color": "#00acad",
+      "color": "#81d8d0",
       "children": [
         {
           "name": "VDF",
@@ -96,7 +96,7 @@
     },
     {
       "name": "Uttar Pradesh",
-      "color": "#00acad",
+      "color": "#f5f5dc",
       "children": [
         {
           "name": "VDF",
@@ -127,7 +127,7 @@
     },
     {
       "name": "Jammu and Kashmir",
-      "color": "#00acad",
+      "color": "#000080",
       "children": [
         {
           "name": "VDF",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Gujarat",
-      "color": "#00acad",
+      "color": "#cbbeb5",
       "children": [
         {
           "name": "VDF",
@@ -189,7 +189,7 @@
     },
     {
       "name": "Karnataka",
-      "color": "#00acad",
+      "color": "#0e2f44",
       "children": [
         {
           "name": "VDF",
@@ -220,7 +220,7 @@
     },
     {
       "name": "Andhra Pradesh",
-      "color": "#00acad",
+      "color": "#660066",
       "children": [
         {
           "name": "VDF",
@@ -251,7 +251,7 @@
     },
     {
       "name": "Odisha",
-      "color": "#00acad",
+      "color": "#f6546a",
       "children": [
         {
           "name": "VDF",
@@ -282,7 +282,7 @@
     },
     {
       "name": "Chhattisgarh",
-      "color": "#00acad",
+      "color": "#468499",
       "children": [
         {
           "name": "VDF",
@@ -313,7 +313,7 @@
     },
     {
       "name": "Tamil Nadu",
-      "color": "#00acad",
+      "color": "#ff7f50",
       "children": [
         {
           "name": "VDF",
@@ -344,7 +344,7 @@
     },
     {
       "name": "Telangana",
-      "color": "#00acad",
+      "color": "#66cdaa",
       "children": [
         {
           "name": "VDF",
@@ -375,7 +375,7 @@
     },
     {
       "name": "Bihar",
-      "color": "#00acad",
+      "color": "#c39797",
       "children": [
         {
           "name": "VDF",
@@ -406,7 +406,7 @@
     },
     {
       "name": "West Bengal",
-      "color": "#00acad",
+      "color": "#ffff00",
       "children": [
         {
           "name": "VDF",
@@ -437,7 +437,7 @@
     },
     {
       "name": "Arunachal Pradesh",
-      "color": "#00acad",
+      "color": "#ffb6c1",
       "children": [
         {
           "name": "VDF",
@@ -468,7 +468,7 @@
     },
     {
       "name": "Jharkhand",
-      "color": "#00acad",
+      "color": "#800000",
       "children": [
         {
           "name": "VDF",
@@ -499,7 +499,7 @@
     },
     {
       "name": "Assam",
-      "color": "#00acad",
+      "color": "#0000ff",
       "children": [
         {
           "name": "VDF",
@@ -530,7 +530,7 @@
     },
     {
       "name": "Himachal Pradesh",
-      "color": "#00acad",
+      "color": "#696966",
       "children": [
         {
           "name": "VDF",
@@ -561,7 +561,7 @@
     },
     {
       "name": "Uttarakhand",
-      "color": "#00acad",
+      "color": "#bada55",
       "children": [
         {
           "name": "VDF",
@@ -592,7 +592,7 @@
     },
     {
       "name": "Punjab",
-      "color": "#00acad",
+      "color": "#7fe5f0",
       "children": [
         {
           "name": "VDF",
@@ -623,7 +623,7 @@
     },
     {
       "name": "Haryana",
-      "color": "#00acad",
+      "color": "#ff80ed",
       "children": [
         {
           "name": "VDF",
@@ -654,7 +654,7 @@
     },
     {
       "name": "Kerala",
-      "color": "#00acad",
+      "color": "#407294",
       "children": [
         {
           "name": "VDF",
@@ -685,7 +685,7 @@
     },
     {
       "name": "Meghalaya",
-      "color": "#00acad",
+      "color": "#cbcba9",
       "children": [
         {
           "name": "VDF",
@@ -716,7 +716,7 @@
     },
     {
       "name": "Manipur",
-      "color": "#00acad",
+      "color": "#420420",
       "children": [
         {
           "name": "VDF",
@@ -747,7 +747,7 @@
     },
     {
       "name": "Mizoram",
-      "color": "#00acad",
+      "color": "#065535",
       "children": [
         {
           "name": "VDF",
@@ -778,7 +778,7 @@
     },
     {
       "name": "Nagaland",
-      "color": "#00acad",
+      "color": "#c0c0c0",
       "children": [
         {
           "name": "VDF",
@@ -809,7 +809,7 @@
     },
     {
       "name": "Tripura",
-      "color": "#00acad",
+      "color": "#5ac18e",
       "children": [
         {
           "name": "VDF",
@@ -871,7 +871,7 @@
     },
     {
       "name": "Sikkim",
-      "color": "#00acad",
+      "color": "#00ced1",
       "children": [
         {
           "name": "VDF",
@@ -902,7 +902,7 @@
     },
     {
       "name": "Goa",
-      "color": "#00acad",
+      "color": "#afeeee",
       "children": [
         {
           "name": "VDF",
