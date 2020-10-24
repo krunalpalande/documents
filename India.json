@@ -170,6 +170,135 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Jammuand Kashmir",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 24160,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 4281,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 8612,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 10719,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 548,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 198076,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 198076,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gujarat",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 17851,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 378,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 5092,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 9387,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 2994,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 178393,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 178393,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karnataka",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 43059,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 4501,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 21048,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 13026,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 4484,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 148732,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 148732,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
