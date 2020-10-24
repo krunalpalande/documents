@@ -7,6 +7,7 @@
       "children": [
         {
           "name": "Forest",
+          "weight": "21,390.00",
           "children": [
             {
               "name": "VDF",
@@ -32,6 +33,7 @@
         },
         {
           "name": "Non Forest",
+          "name (copy)": "3,20,849.00",
           "children": [
             {
               "name": "NF",
@@ -48,6 +50,7 @@
       "children": [
         {
           "name": "Forest",
+          "weight": "83,484.00",
           "children": [
             {
               "name": "VDF",
@@ -73,6 +76,7 @@
         },
         {
           "name": "Non Forest",
+          "weight": "2,24,768.00",
           "children": [
             {
               "name": "NF",
@@ -89,6 +93,7 @@
       "children": [
         {
           "name": "Forest",
+          "weight": "55,034.00",
           "children": [
             {
               "name": "VDF",
@@ -114,6 +119,7 @@
         },
         {
           "name": "Non Forest",
+          "weight": "2,52,679.00",
           "children": [
             {
               "name": "NF",
@@ -130,6 +136,7 @@
       "children": [
         {
           "name": "Forest",
+          "weight": "15,393.00",
           "children": [
             {
               "name": "VDF",
@@ -155,6 +162,7 @@
         },
         {
           "name": "Non Forest",
+          "weight": "24,160.00",
           "children": [
             {
               "name": "NF",
