@@ -6,29 +6,40 @@
       "color": "#66cccc",
       "children": [
         {
-          "name": "VDF",
+          "name": "Forest",
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 78,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 4342,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 12210,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 4760,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
           "weight": 78,
-          "code": "VDF"
-        },
-        {
-          "name": "MDF",
-          "weight": 4342,
-          "code": "MDF"
-        },
-        {
-          "name": "OF",
-          "weight": 12210,
-          "code": "OF"
-        },
-        {
-          "name": "Scrub",
-          "weight": 4760,
-          "code": "SC"
-        },
-        {
-          "name": "NF",
-          "weight": 320849,
-          "code": "NF"
+          "children": [
+            {
+              "name": "NF",
+              "weight": 320849,
+              "code": "NF"
+            }
+          ]
         }
       ]
     },
