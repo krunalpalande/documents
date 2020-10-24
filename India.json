@@ -3,6 +3,7 @@
   "children": [
     {
       "name": "Rajasthan",
+      "color": "#000",
       "children": [
         {
           "name": "Forest",
@@ -43,6 +44,7 @@
     },
     {
       "name": "Madhya Pradesh",
+      "color": "#000",
       "children": [
         {
           "name": "Forest",
@@ -83,6 +85,7 @@
     },
     {
       "name": "Maharashtra",
+      "color": "#000",
       "children": [
         {
           "name": "Forest",
@@ -123,6 +126,7 @@
     },
     {
       "name": "UttarPradesh",
+      "color": "#000",
       "children": [
         {
           "name": "Forest",
