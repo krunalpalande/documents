@@ -299,6 +299,264 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Andhra Pradesh",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 37392,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 1994,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 13938,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 13205,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 8255,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 125576,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 125576,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Odisha",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 55946,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 6970,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 21552,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 23097,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 4327,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 99761,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 99761,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chhattisgarh",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 56221,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 7068,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 32198,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 16345,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 610,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 78971,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 78971,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tamil Nadu",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 27079,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 3605,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 11030,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 11729,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 715,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 102981,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 102981,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Telangana",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 24197,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 1608,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 8787,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 10187,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 3615,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 87880,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 87880,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bihar",
+      "color": "#224",
+      "children": [
+        {
+          "name": "Forest",
+          "weight": 7556,
+          "children": [
+            {
+              "name": "VDF",
+              "weight": 333,
+              "code": "VDF"
+            },
+            {
+              "name": "MDF",
+              "weight": 3280,
+              "code": "MDF"
+            },
+            {
+              "name": "OF",
+              "weight": 3693,
+              "code": "OF"
+            },
+            {
+              "name": "Scrub",
+              "weight": 250,
+              "code": "SC"
+            }
+          ]
+        },
+        {
+          "name": "Non Forest",
+          "weight": 86607,
+          "children": [
+            {
+              "name": "NF",
+              "weight": 86607,
+              "code": "NF"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
