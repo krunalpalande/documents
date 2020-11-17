@@ -1,1945 +1,2388 @@
 {
-   "All's Well That Ends Well": [
+   "Plays": [
       {
-         "Characters": "Helena",
+         "Play": "All's Well That Ends Well",
+         "Character": "Helena",
          "Words": 3573
       },
       {
-         "Characters": "Parolles",
+         "Play": "All's Well That Ends Well",
+         "Character": "Parolles",
          "Words": 2957
       },
       {
-         "Characters": "King of France",
+         "Play": "All's Well That Ends Well",
+         "Character": "King of France",
          "Words": 2872
       },
       {
-         "Characters": "Lafew",
+         "Play": "All's Well That Ends Well",
+         "Character": "Lafew",
          "Words": 2242
       },
       {
-         "Characters": "Countess of Roussillon",
+         "Play": "All's Well That Ends Well",
+         "Character": "Countess of Roussillon",
          "Words": 2162
       },
       {
-         "Characters": "Bertram",
+         "Play": "All's Well That Ends Well",
+         "Character": "Bertram",
          "Words": 2031
       },
       {
-         "Characters": "Lavatch, a Clown",
+         "Play": "All's Well That Ends Well",
+         "Character": "Lavatch, a Clown",
          "Words": 1659
       },
       {
-         "Characters": "Second Lord",
+         "Play": "All's Well That Ends Well",
+         "Character": "Second Lord",
          "Words": 1159
       },
       {
-         "Characters": "Diana",
+         "Play": "All's Well That Ends Well",
+         "Character": "Diana",
          "Words": 1014
       },
       {
-         "Characters": "First Lord",
+         "Play": "All's Well That Ends Well",
+         "Character": "First Lord",
          "Words": 864
       },
       {
-         "Characters": "First Soldier",
+         "Play": "All's Well That Ends Well",
+         "Character": "First Soldier",
          "Words": 585
       },
       {
-         "Characters": "Widow",
+         "Play": "All's Well That Ends Well",
+         "Character": "Widow",
          "Words": 429
       },
       {
-         "Characters": "Steward",
+         "Play": "All's Well That Ends Well",
+         "Character": "Steward",
          "Words": 345
       },
       {
-         "Characters": "Mariana",
+         "Play": "All's Well That Ends Well",
+         "Character": "Mariana",
          "Words": 172
       },
       {
-         "Characters": "Gentleman",
+         "Play": "All's Well That Ends Well",
+         "Character": "Gentleman",
          "Words": 129
       },
       {
-         "Characters": "Duke of Florence",
+         "Play": "All's Well That Ends Well",
+         "Character": "Duke of Florence",
          "Words": 124
       },
       {
-         "Characters": "First Gentleman",
+         "Play": "All's Well That Ends Well",
+         "Character": "First Gentleman",
          "Words": 73
       },
       {
-         "Characters": "Second Gentleman",
+         "Play": "All's Well That Ends Well",
+         "Character": "Second Gentleman",
          "Words": 67
       },
       {
-         "Characters": "Servant",
+         "Play": "All's Well That Ends Well",
+         "Character": "Servant",
          "Words": 34
       },
       {
-         "Characters": "Page",
+         "Play": "All's Well That Ends Well",
+         "Character": "Page",
          "Words": 7
       },
       {
-         "Characters": "Second Soldier",
+         "Play": "All's Well That Ends Well",
+         "Character": "Second Soldier",
          "Words": 7
       },
       {
-         "Characters": "Fourth Lord",
+         "Play": "All's Well That Ends Well",
+         "Character": "Fourth Lord",
          "Words": 6
-      }
-   ],
-   "As You Like It": [
+      },
       {
-         "Characters": "Rosalind",
+         "Play": "As You Like It",
+         "Character": "Rosalind",
          "Words": 5688
       },
       {
-         "Characters": "Orlando",
+         "Play": "As You Like It",
+         "Character": "Orlando",
          "Words": 2375
       },
       {
-         "Characters": "Touchstone",
+         "Play": "As You Like It",
+         "Character": "Touchstone",
          "Words": 2368
       },
       {
-         "Characters": "Celia",
+         "Play": "As You Like It",
+         "Character": "Celia",
          "Words": 2105
       },
       {
-         "Characters": "Jaques",
+         "Play": "As You Like It",
+         "Character": "Jaques",
          "Words": 1770
       },
       {
-         "Characters": "Oliver",
+         "Play": "As You Like It",
+         "Character": "Oliver",
          "Words": 1162
       },
       {
-         "Characters": "Duke Senior",
+         "Play": "As You Like It",
+         "Character": "Duke Senior",
          "Words": 816
       },
       {
-         "Characters": "Phoebe",
+         "Play": "As You Like It",
+         "Character": "Phoebe",
          "Words": 696
       },
       {
-         "Characters": "Corin",
+         "Play": "As You Like It",
+         "Character": "Corin",
          "Words": 550
       },
       {
-         "Characters": "Silvius",
+         "Play": "As You Like It",
+         "Character": "Silvius",
          "Words": 538
       },
       {
-         "Characters": "Duke Frederick",
+         "Play": "As You Like It",
+         "Character": "Duke Frederick",
          "Words": 529
       },
       {
-         "Characters": "Adam",
+         "Play": "As You Like It",
+         "Character": "Adam",
          "Words": 512
       },
       {
-         "Characters": "Charles",
+         "Play": "As You Like It",
+         "Character": "Charles",
          "Words": 375
       },
       {
-         "Characters": "Le Beau",
+         "Play": "As You Like It",
+         "Character": "Le Beau",
          "Words": 371
       },
       {
-         "Characters": "First Lord",
+         "Play": "As You Like It",
+         "Character": "First Lord",
          "Words": 348
       },
       {
-         "Characters": "Amiens",
+         "Play": "As You Like It",
+         "Character": "Amiens",
          "Words": 214
       },
       {
-         "Characters": "Hymen",
+         "Play": "As You Like It",
+         "Character": "Hymen",
          "Words": 166
       },
       {
-         "Characters": "Second Page",
+         "Play": "As You Like It",
+         "Character": "Second Page",
          "Words": 152
       },
       {
-         "Characters": "Audrey",
+         "Play": "As You Like It",
+         "Character": "Audrey",
          "Words": 149
       },
       {
-         "Characters": "Jaques De Boys",
+         "Play": "As You Like It",
+         "Character": "Jaques De Boys",
          "Words": 128
       },
       {
-         "Characters": "Second Lord",
+         "Play": "As You Like It",
+         "Character": "Second Lord",
          "Words": 74
       },
       {
-         "Characters": "Forester",
+         "Play": "As You Like It",
+         "Character": "Forester",
          "Words": 62
       },
       {
-         "Characters": "William",
+         "Play": "As You Like It",
+         "Character": "William",
          "Words": 44
       },
       {
-         "Characters": "First Page",
+         "Play": "As You Like It",
+         "Character": "First Page",
          "Words": 39
       },
       {
-         "Characters": "Sir Oliver Martext",
+         "Play": "As You Like It",
+         "Character": "Sir Oliver Martext",
          "Words": 36
       },
       {
-         "Characters": "Dennis",
+         "Play": "As You Like It",
+         "Character": "Dennis",
          "Words": 17
       },
       {
-         "Characters": "A Lord",
+         "Play": "As You Like It",
+         "Character": "A Lord",
          "Words": 4
-      }
-   ],
-   "The Comedy of Errors": [
+      },
       {
-         "Characters": "Adriana",
+         "Play": "The Comedy of Errors",
+         "Character": "Adriana",
          "Words": 2090
       },
       {
-         "Characters": "Dromio Of Syracuse",
+         "Play": "The Comedy of Errors",
+         "Character": "Dromio Of Syracuse",
          "Words": 2070
       },
       {
-         "Characters": "Antipholus Of Syracuse",
+         "Play": "The Comedy of Errors",
+         "Character": "Antipholus Of Syracuse",
          "Words": 2058
       },
       {
-         "Characters": "Antipholus Of Ephesus",
+         "Play": "The Comedy of Errors",
+         "Character": "Antipholus Of Ephesus",
          "Words": 1751
       },
       {
-         "Characters": "Dromio Of Ephesus",
+         "Play": "The Comedy of Errors",
+         "Character": "Dromio Of Ephesus",
          "Words": 1349
       },
       {
-         "Characters": "Aegeon",
+         "Play": "The Comedy of Errors",
+         "Character": "Aegeon",
          "Words": 1094
       },
       {
-         "Characters": "Luciana",
+         "Play": "The Comedy of Errors",
+         "Character": "Luciana",
          "Words": 761
       },
       {
-         "Characters": "Duke Solinus",
+         "Play": "The Comedy of Errors",
+         "Character": "Duke Solinus",
          "Words": 693
       },
       {
-         "Characters": "Angelo",
+         "Play": "The Comedy of Errors",
+         "Character": "Angelo",
          "Words": 634
       },
       {
-         "Characters": "Emelia",
+         "Play": "The Comedy of Errors",
+         "Character": "Emelia",
          "Words": 552
       },
       {
-         "Characters": "Courtesan",
+         "Play": "The Comedy of Errors",
+         "Character": "Courtesan",
          "Words": 294
       },
       {
-         "Characters": "Second Merchant",
+         "Play": "The Comedy of Errors",
+         "Character": "Second Merchant",
          "Words": 268
       },
       {
-         "Characters": "Balthazar",
+         "Play": "The Comedy of Errors",
+         "Character": "Balthazar",
          "Words": 202
       },
       {
-         "Characters": "Servant",
+         "Play": "The Comedy of Errors",
+         "Character": "Servant",
          "Words": 131
       },
       {
-         "Characters": "First Merchant",
+         "Play": "The Comedy of Errors",
+         "Character": "First Merchant",
          "Words": 114
       },
       {
-         "Characters": "Pinch",
+         "Play": "The Comedy of Errors",
+         "Character": "Pinch",
          "Words": 103
       },
       {
-         "Characters": "Officer",
+         "Play": "The Comedy of Errors",
+         "Character": "Officer",
          "Words": 95
       },
       {
-         "Characters": "Luce",
+         "Play": "The Comedy of Errors",
+         "Character": "Luce",
          "Words": 62
       },
       {
-         "Characters": "Gaoler",
+         "Play": "The Comedy of Errors",
+         "Character": "Gaoler",
          "Words": 4
-      }
-   ],
-   "Love's Labour's Lost": [
+      },
       {
-         "Characters": "Biron",
+         "Play": "Love's Labour's Lost",
+         "Character": "Biron",
          "Words": 4748
       },
       {
-         "Characters": "Ferdinand",
+         "Play": "Love's Labour's Lost",
+         "Character": "Ferdinand",
          "Words": 2361
       },
       {
-         "Characters": "Princess",
+         "Play": "Love's Labour's Lost",
+         "Character": "Princess",
          "Words": 2163
       },
       {
-         "Characters": "Adriano De Armado",
+         "Play": "Love's Labour's Lost",
+         "Character": "Adriano De Armado",
          "Words": 1929
       },
       {
-         "Characters": "Boyet",
+         "Play": "Love's Labour's Lost",
+         "Character": "Boyet",
          "Words": 1771
       },
       {
-         "Characters": "Costard",
+         "Play": "Love's Labour's Lost",
+         "Character": "Costard",
          "Words": 1525
       },
       {
-         "Characters": "Rosaline",
+         "Play": "Love's Labour's Lost",
+         "Character": "Rosaline",
          "Words": 1346
       },
       {
-         "Characters": "Holofernes",
+         "Play": "Love's Labour's Lost",
+         "Character": "Holofernes",
          "Words": 1295
       },
       {
-         "Characters": "Moth",
+         "Play": "Love's Labour's Lost",
+         "Character": "Moth",
          "Words": 1099
       },
       {
-         "Characters": "Dumain",
+         "Play": "Love's Labour's Lost",
+         "Character": "Dumain",
          "Words": 543
       },
       {
-         "Characters": "Sir Nathaniel",
+         "Play": "Love's Labour's Lost",
+         "Character": "Sir Nathaniel",
          "Words": 523
       },
       {
-         "Characters": "Longaville",
+         "Play": "Love's Labour's Lost",
+         "Character": "Longaville",
          "Words": 510
       },
       {
-         "Characters": "Katharine",
+         "Play": "Love's Labour's Lost",
+         "Character": "Katharine",
          "Words": 357
       },
       {
-         "Characters": "Maria",
+         "Play": "Love's Labour's Lost",
+         "Character": "Maria",
          "Words": 321
       },
       {
-         "Characters": "Dull",
+         "Play": "Love's Labour's Lost",
+         "Character": "Dull",
          "Words": 233
       },
       {
-         "Characters": "Jaquenetta",
+         "Play": "Love's Labour's Lost",
+         "Character": "Jaquenetta",
          "Words": 100
       },
       {
-         "Characters": "Forester",
+         "Play": "Love's Labour's Lost",
+         "Character": "Forester",
          "Words": 35
       },
       {
-         "Characters": "Mercade",
+         "Play": "Love's Labour's Lost",
+         "Character": "Mercade",
          "Words": 28
       },
       {
-         "Characters": "First Lord",
+         "Play": "Love's Labour's Lost",
+         "Character": "First Lord",
          "Words": 7
-      }
-   ],
-   "Measure for Measure": [
+      },
       {
-         "Characters": "Duke Vincentio",
+         "Play": "Measure for Measure",
+         "Character": "Duke Vincentio",
          "Words": 6572
       },
       {
-         "Characters": "Isabella",
+         "Play": "Measure for Measure",
+         "Character": "Isabella",
          "Words": 3011
       },
       {
-         "Characters": "Angelo",
+         "Play": "Measure for Measure",
+         "Character": "Angelo",
          "Words": 2364
       },
       {
-         "Characters": "Lucio",
+         "Play": "Measure for Measure",
+         "Character": "Lucio",
          "Words": 2306
       },
       {
-         "Characters": "Escalus",
+         "Play": "Measure for Measure",
+         "Character": "Escalus",
          "Words": 1410
       },
       {
-         "Characters": "Pompey",
+         "Play": "Measure for Measure",
+         "Character": "Pompey",
          "Words": 1289
       },
       {
-         "Characters": "Provost",
+         "Play": "Measure for Measure",
+         "Character": "Provost",
          "Words": 1127
       },
       {
-         "Characters": "Claudio",
+         "Play": "Measure for Measure",
+         "Character": "Claudio",
          "Words": 795
       },
       {
-         "Characters": "Elbow",
+         "Play": "Measure for Measure",
+         "Character": "Elbow",
          "Words": 597
       },
       {
-         "Characters": "Mariana",
+         "Play": "Measure for Measure",
+         "Character": "Mariana",
          "Words": 480
       },
       {
-         "Characters": "Friar Peter",
+         "Play": "Measure for Measure",
+         "Character": "Friar Peter",
          "Words": 273
       },
       {
-         "Characters": "Mistress Overdone",
+         "Play": "Measure for Measure",
+         "Character": "Mistress Overdone",
          "Words": 226
       },
       {
-         "Characters": "First Gentleman",
+         "Play": "Measure for Measure",
+         "Character": "First Gentleman",
          "Words": 168
       },
       {
-         "Characters": "Abhorson",
+         "Play": "Measure for Measure",
+         "Character": "Abhorson",
          "Words": 141
       },
       {
-         "Characters": "Barnardine",
+         "Play": "Measure for Measure",
+         "Character": "Barnardine",
          "Words": 113
       },
       {
-         "Characters": "Francisca",
+         "Play": "Measure for Measure",
+         "Character": "Francisca",
          "Words": 76
       },
       {
-         "Characters": "Juliet",
+         "Play": "Measure for Measure",
+         "Character": "Juliet",
          "Words": 63
       },
       {
-         "Characters": "Second Gentleman",
+         "Play": "Measure for Measure",
+         "Character": "Second Gentleman",
          "Words": 59
       },
       {
-         "Characters": "Froth",
+         "Play": "Measure for Measure",
+         "Character": "Froth",
          "Words": 57
       },
       {
-         "Characters": "Messenger",
+         "Play": "Measure for Measure",
+         "Character": "Messenger",
          "Words": 41
       },
       {
-         "Characters": "Friar Thomas",
+         "Play": "Measure for Measure",
+         "Character": "Friar Thomas",
          "Words": 35
       },
       {
-         "Characters": "Servant",
+         "Play": "Measure for Measure",
+         "Character": "Servant",
          "Words": 34
       },
       {
-         "Characters": "Justice",
+         "Play": "Measure for Measure",
+         "Character": "Justice",
          "Words": 10
       },
       {
-         "Characters": "Duke",
+         "Play": "Measure for Measure",
+         "Character": "Duke",
          "Words": 6
-      }
-   ],
-   "The Merry Wives of Windsor": [
+      },
       {
-         "Characters": "Falstaff",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Falstaff",
          "Words": 3641
       },
       {
-         "Characters": "Ford",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Ford",
          "Words": 2528
       },
       {
-         "Characters": "Mistress Page",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Mistress Page",
          "Words": 2515
       },
       {
-         "Characters": "Mistress Quickly",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Mistress Quickly",
          "Words": 2193
       },
       {
-         "Characters": "Sir Hugh Evans",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Sir Hugh Evans",
          "Words": 1788
       },
       {
-         "Characters": "Mistress Ford",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Mistress Ford",
          "Words": 1300
       },
       {
-         "Characters": "Slender",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Slender",
          "Words": 1147
       },
       {
-         "Characters": "Page",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Page",
          "Words": 1079
       },
       {
-         "Characters": "Shallow",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Shallow",
          "Words": 912
       },
       {
-         "Characters": "Host",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Host",
          "Words": 840
       },
       {
-         "Characters": "Doctor Caius",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Doctor Caius",
          "Words": 812
       },
       {
-         "Characters": "Fenton",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Fenton",
          "Words": 751
       },
       {
-         "Characters": "Pistol",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Pistol",
          "Words": 403
       },
       {
-         "Characters": "Simple",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Simple",
          "Words": 334
       },
       {
-         "Characters": "Nym",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Nym",
          "Words": 247
       },
       {
-         "Characters": "Anne Page",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Anne Page",
          "Words": 179
       },
       {
-         "Characters": "Bardolph",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Bardolph",
          "Words": 168
       },
       {
-         "Characters": "Robin",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Robin",
          "Words": 101
       },
       {
-         "Characters": "Rugby",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Rugby",
          "Words": 52
       },
       {
-         "Characters": "William Page",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "William Page",
          "Words": 35
       },
       {
-         "Characters": "First Servant",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "First Servant",
          "Words": 16
       },
       {
-         "Characters": "Second Servant",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Second Servant",
          "Words": 9
       },
       {
-         "Characters": "Pageshallowslender",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Pageshallowslender",
          "Words": 4
       },
       {
-         "Characters": "Servant",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Servant",
          "Words": 4
       },
       {
-         "Characters": "Shallowpage& C",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Shallowpage& C",
          "Words": 4
       },
       {
-         "Characters": "Mistress Fordmistress Page",
+         "Play": "The Merry Wives of Windsor",
+         "Character": "Mistress Fordmistress Page",
          "Words": 2
-      }
-   ],
-   "The Merchant of Venice": [
+      },
       {
-         "Characters": "Portia",
+         "Play": "The Merchant of Venice",
+         "Character": "Portia",
          "Words": 4648
       },
       {
-         "Characters": "Shylock",
+         "Play": "The Merchant of Venice",
+         "Character": "Shylock",
          "Words": 2872
       },
       {
-         "Characters": "Bassanio",
+         "Play": "The Merchant of Venice",
+         "Character": "Bassanio",
          "Words": 2589
       },
       {
-         "Characters": "Launcelot",
+         "Play": "The Merchant of Venice",
+         "Character": "Launcelot",
          "Words": 1450
       },
       {
-         "Characters": "Antonio",
+         "Play": "The Merchant of Venice",
+         "Character": "Antonio",
          "Words": 1432
       },
       {
-         "Characters": "Gratiano",
+         "Play": "The Merchant of Venice",
+         "Character": "Gratiano",
          "Words": 1370
       },
       {
-         "Characters": "Lorenzo",
+         "Play": "The Merchant of Venice",
+         "Character": "Lorenzo",
          "Words": 1330
       },
       {
-         "Characters": "Salarino",
+         "Play": "The Merchant of Venice",
+         "Character": "Salarino",
          "Words": 798
       },
       {
-         "Characters": "Morocco",
+         "Play": "The Merchant of Venice",
+         "Character": "Morocco",
          "Words": 797
       },
       {
-         "Characters": "Nerissa",
+         "Play": "The Merchant of Venice",
+         "Character": "Nerissa",
          "Words": 694
       },
       {
-         "Characters": "Jessica",
+         "Play": "The Merchant of Venice",
+         "Character": "Jessica",
          "Words": 662
       },
       {
-         "Characters": "Arragon",
+         "Play": "The Merchant of Venice",
+         "Character": "Arragon",
          "Words": 497
       },
       {
-         "Characters": "Salanio",
+         "Play": "The Merchant of Venice",
+         "Character": "Salanio",
          "Words": 445
       },
       {
-         "Characters": "Duke",
+         "Play": "The Merchant of Venice",
+         "Character": "Duke",
          "Words": 418
       },
       {
-         "Characters": "Gobbo",
+         "Play": "The Merchant of Venice",
+         "Character": "Gobbo",
          "Words": 291
       },
       {
-         "Characters": "Salerio",
+         "Play": "The Merchant of Venice",
+         "Character": "Salerio",
          "Words": 174
       },
       {
-         "Characters": "Clerk",
+         "Play": "The Merchant of Venice",
+         "Character": "Clerk",
          "Words": 138
       },
       {
-         "Characters": "Servant",
+         "Play": "The Merchant of Venice",
+         "Character": "Servant",
          "Words": 126
       },
       {
-         "Characters": "Tubal",
+         "Play": "The Merchant of Venice",
+         "Character": "Tubal",
          "Words": 97
       },
       {
-         "Characters": "Stephano",
+         "Play": "The Merchant of Venice",
+         "Character": "Stephano",
          "Words": 54
       },
       {
-         "Characters": "Leonardo",
+         "Play": "The Merchant of Venice",
+         "Character": "Leonardo",
          "Words": 11
       },
       {
-         "Characters": "Balthasar",
+         "Play": "The Merchant of Venice",
+         "Character": "Balthasar",
          "Words": 7
-      }
-   ],
-   "A Midsummer's Night Dream": [
+      },
       {
-         "Characters": "Bottom",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Bottom",
          "Words": 2017
       },
       {
-         "Characters": "Helena",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Helena",
          "Words": 1813
       },
       {
-         "Characters": "Theseus",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Theseus",
          "Words": 1721
       },
       {
-         "Characters": "Oberon",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Oberon",
          "Words": 1609
       },
       {
-         "Characters": "Lysander",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Lysander",
          "Words": 1394
       },
       {
-         "Characters": "Puck",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Puck",
          "Words": 1368
       },
       {
-         "Characters": "Hermia",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Hermia",
          "Words": 1290
       },
       {
-         "Characters": "Titania",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Titania",
          "Words": 1161
       },
       {
-         "Characters": "Demetrius",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Demetrius",
          "Words": 1060
       },
       {
-         "Characters": "Quince",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Quince",
          "Words": 948
       },
       {
-         "Characters": "Flute",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Flute",
          "Words": 348
       },
       {
-         "Characters": "Egeus",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Egeus",
          "Words": 295
       },
       {
-         "Characters": "Hippolyta",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Hippolyta",
          "Words": 251
       },
       {
-         "Characters": "Fairy",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Fairy",
          "Words": 196
       },
       {
-         "Characters": "Philostrate",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Philostrate",
          "Words": 183
       },
       {
-         "Characters": "Snout",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Snout",
          "Words": 157
       },
       {
-         "Characters": "Snug",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Snug",
          "Words": 117
       },
       {
-         "Characters": "Starveling",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Starveling",
          "Words": 87
       },
       {
-         "Characters": "Mustardseed",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Mustardseed",
          "Words": 8
       },
       {
-         "Characters": "Cobweb",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Cobweb",
          "Words": 5
       },
       {
-         "Characters": "Peaseblossom",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Peaseblossom",
          "Words": 5
       },
       {
-         "Characters": "Moth",
+         "Play": "A Midsummer's Night Dream",
+         "Character": "Moth",
          "Words": 3
-      }
-   ],
-   "Much Ado About Nothing": [
+      },
       {
-         "Characters": "Benedick",
+         "Play": "Much Ado About Nothing",
+         "Character": "Benedick",
          "Words": 3737
       },
       {
-         "Characters": "Leonato",
+         "Play": "Much Ado About Nothing",
+         "Character": "Leonato",
          "Words": 2630
       },
       {
-         "Characters": "Don Pedro",
+         "Play": "Much Ado About Nothing",
+         "Character": "Don Pedro",
          "Words": 2467
       },
       {
-         "Characters": "Beatrice",
+         "Play": "Much Ado About Nothing",
+         "Character": "Beatrice",
          "Words": 2358
       },
       {
-         "Characters": "Claudio",
+         "Play": "Much Ado About Nothing",
+         "Character": "Claudio",
          "Words": 2058
       },
       {
-         "Characters": "Dogberry",
+         "Play": "Much Ado About Nothing",
+         "Character": "Dogberry",
          "Words": 1527
       },
       {
-         "Characters": "Borachio",
+         "Play": "Much Ado About Nothing",
+         "Character": "Borachio",
          "Words": 988
       },
       {
-         "Characters": "Hero",
+         "Play": "Much Ado About Nothing",
+         "Character": "Hero",
          "Words": 980
       },
       {
-         "Characters": "Don John",
+         "Play": "Much Ado About Nothing",
+         "Character": "Don John",
          "Words": 889
       },
       {
-         "Characters": "Friar Francis",
+         "Play": "Much Ado About Nothing",
+         "Character": "Friar Francis",
          "Words": 589
       },
       {
-         "Characters": "Margaret",
+         "Play": "Much Ado About Nothing",
+         "Character": "Margaret",
          "Words": 545
       },
       {
-         "Characters": "Antonio",
+         "Play": "Much Ado About Nothing",
+         "Character": "Antonio",
          "Words": 424
       },
       {
-         "Characters": "Ursula",
+         "Play": "Much Ado About Nothing",
+         "Character": "Ursula",
          "Words": 361
       },
       {
-         "Characters": "Conrade",
+         "Play": "Much Ado About Nothing",
+         "Character": "Conrade",
          "Words": 251
       },
       {
-         "Characters": "Messenger",
+         "Play": "Much Ado About Nothing",
+         "Character": "Messenger",
          "Words": 227
       },
       {
-         "Characters": "Verges",
+         "Play": "Much Ado About Nothing",
+         "Character": "Verges",
          "Words": 184
       },
       {
-         "Characters": "Balthasar",
+         "Play": "Much Ado About Nothing",
+         "Character": "Balthasar",
          "Words": 182
       },
       {
-         "Characters": "Sexton",
+         "Play": "Much Ado About Nothing",
+         "Character": "Sexton",
          "Words": 106
       },
       {
-         "Characters": "Watchman",
+         "Play": "Much Ado About Nothing",
+         "Character": "Watchman",
          "Words": 104
       },
       {
-         "Characters": "First Watchman",
+         "Play": "Much Ado About Nothing",
+         "Character": "First Watchman",
          "Words": 80
       },
       {
-         "Characters": "Second Watchman",
+         "Play": "Much Ado About Nothing",
+         "Character": "Second Watchman",
          "Words": 59
       },
       {
-         "Characters": "Boy",
+         "Play": "Much Ado About Nothing",
+         "Character": "Boy",
          "Words": 6
       },
       {
-         "Characters": "Lord",
+         "Play": "Much Ado About Nothing",
+         "Character": "Lord",
          "Words": 4
-      }
-   ],
-   "Pericles, Prince of Tyre": [
+      },
       {
-         "Characters": "Pericles",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Pericles",
          "Words": 4626
       },
       {
-         "Characters": "Gower",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Gower",
          "Words": 1872
       },
       {
-         "Characters": "Marina",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Marina",
          "Words": 1269
       },
       {
-         "Characters": "Simonides",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Simonides",
          "Words": 1144
       },
       {
-         "Characters": "Helicanus",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Helicanus",
          "Words": 892
       },
       {
-         "Characters": "Bawd",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Bawd",
          "Words": 846
       },
       {
-         "Characters": "Cleon",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Cleon",
          "Words": 831
       },
       {
-         "Characters": "Cerimon",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Cerimon",
          "Words": 739
       },
       {
-         "Characters": "Lysimachus",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Lysimachus",
          "Words": 719
       },
       {
-         "Characters": "Dionyza",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Dionyza",
          "Words": 667
       },
       {
-         "Characters": "Boult",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Boult",
          "Words": 656
       },
       {
-         "Characters": "Thaisa",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Thaisa",
          "Words": 559
       },
       {
-         "Characters": "Antiochus",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Antiochus",
          "Words": 488
       },
       {
-         "Characters": "First Fisherman",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Fisherman",
          "Words": 308
       },
       {
-         "Characters": "Second Fisherman",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Second Fisherman",
          "Words": 220
       },
       {
-         "Characters": "Pandar",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Pandar",
          "Words": 216
       },
       {
-         "Characters": "Thaliard",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Thaliard",
          "Words": 205
       },
       {
-         "Characters": "First Lord",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Lord",
          "Words": 197
       },
       {
-         "Characters": "Third Fisherman",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Third Fisherman",
          "Words": 151
       },
       {
-         "Characters": "Leonine",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Leonine",
          "Words": 149
       },
       {
-         "Characters": "First Gentleman",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Gentleman",
          "Words": 143
       },
       {
-         "Characters": "Second Gentleman",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Second Gentleman",
          "Words": 113
       },
       {
-         "Characters": "Second Lord",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Second Lord",
          "Words": 78
       },
       {
-         "Characters": "Lychorida",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Lychorida",
          "Words": 74
       },
       {
-         "Characters": "Diana",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Diana",
          "Words": 72
       },
       {
-         "Characters": "First Sailor",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Sailor",
          "Words": 71
       },
       {
-         "Characters": "Tyrian Sailor",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Tyrian Sailor",
          "Words": 54
       },
       {
-         "Characters": "Lord",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Lord",
          "Words": 48
       },
       {
-         "Characters": "Second Sailor",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Second Sailor",
          "Words": 38
       },
       {
-         "Characters": "First Servant",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Servant",
          "Words": 32
       },
       {
-         "Characters": "First Knight",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Knight",
          "Words": 48
       },
       {
-         "Characters": "Third Lord",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Third Lord",
          "Words": 26
       },
       {
-         "Characters": "Daughter",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Daughter",
          "Words": 16
       },
       {
-         "Characters": "Servant",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Servant",
          "Words": 16
       },
       {
-         "Characters": "Second Knight",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Second Knight",
          "Words": 28
       },
       {
-         "Characters": "Third Pirate",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Third Pirate",
          "Words": 9
       },
       {
-         "Characters": "First Pirate",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "First Pirate",
          "Words": 8
       },
       {
-         "Characters": "Third Knight",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Third Knight",
          "Words": 27
       },
       {
-         "Characters": "Escanes",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Escanes",
          "Words": 6
       },
       {
-         "Characters": "Messenger",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Messenger",
          "Words": 6
       },
       {
-         "Characters": "Marshal",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Marshal",
          "Words": 5
       },
       {
-         "Characters": "Philemon",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Philemon",
          "Words": 4
       },
       {
-         "Characters": "Second Pirate",
+         "Play": "Pericles, Prince of Tyre",
+         "Character": "Second Pirate",
          "Words": 4
-      }
-   ],
-   "The Taming Of The Shrew": [
+      },
       {
-         "Characters": "Petruchio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Petruchio",
          "Words": 4610
       },
       {
-         "Characters": "Tranio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Tranio",
          "Words": 2259
       },
       {
-         "Characters": "Katharina",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Katharina",
          "Words": 1736
       },
       {
-         "Characters": "Hortensio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Hortensio",
          "Words": 1578
       },
       {
-         "Characters": "Grumio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Grumio",
          "Words": 1451
       },
       {
-         "Characters": "Lucentio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Lucentio",
          "Words": 1372
       },
       {
-         "Characters": "Gremio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Gremio",
          "Words": 1325
       },
       {
-         "Characters": "Baptista",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Baptista",
          "Words": 1285
       },
       {
-         "Characters": "Lord",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Lord",
          "Words": 1057
       },
       {
-         "Characters": "Biondello",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Biondello",
          "Words": 813
       },
       {
-         "Characters": "Bianca",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Bianca",
          "Words": 543
       },
       {
-         "Characters": "Sly",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Sly",
          "Words": 519
       },
       {
-         "Characters": "Pedant",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Pedant",
          "Words": 377
       },
       {
-         "Characters": "Vincentio",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Vincentio",
          "Words": 345
       },
       {
-         "Characters": "Curtis",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Curtis",
          "Words": 169
       },
       {
-         "Characters": "First Servant",
+         "Play": "The Taming Of The Shrew",
+         "Character": "First Servant",
          "Words": 130
       },
       {
-         "Characters": "Page",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Page",
          "Words": 122
       },
       {
-         "Characters": "Tailor",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Tailor",
          "Words": 112
       },
       {
-         "Characters": "Second Servant",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Second Servant",
          "Words": 101
       },
       {
-         "Characters": "Third Servant",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Third Servant",
          "Words": 99
       },
       {
-         "Characters": "Widow",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Widow",
          "Words": 76
       },
       {
-         "Characters": "First Huntsman",
+         "Play": "The Taming Of The Shrew",
+         "Character": "First Huntsman",
          "Words": 74
       },
       {
-         "Characters": "Messenger",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Messenger",
          "Words": 61
       },
       {
-         "Characters": "Servant",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Servant",
          "Words": 33
       },
       {
-         "Characters": "A Player",
+         "Play": "The Taming Of The Shrew",
+         "Character": "A Player",
          "Words": 32
       },
       {
-         "Characters": "Second Huntsman",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Second Huntsman",
          "Words": 29
       },
       {
-         "Characters": "Hostess",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Hostess",
          "Words": 26
       },
       {
-         "Characters": "Katarina",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Katarina",
          "Words": 23
       },
       {
-         "Characters": "Nathaniel",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Nathaniel",
          "Words": 22
       },
       {
-         "Characters": "Haberdasher",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Haberdasher",
          "Words": 8
       },
       {
-         "Characters": "Peter",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Peter",
          "Words": 8
       },
       {
-         "Characters": "Players",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Players",
          "Words": 4
       },
       {
-         "Characters": "Philip",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Philip",
          "Words": 3
       },
       {
-         "Characters": "Joseph",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Joseph",
          "Words": 2
       },
       {
-         "Characters": "Nicholas",
+         "Play": "The Taming Of The Shrew",
+         "Character": "Nicholas",
          "Words": 2
-      }
-   ],
-   "The Tempest": [
+      },
       {
-         "Characters": "Prospero",
+         "Play": "The Tempest",
+         "Character": "Prospero",
          "Words": 4878
       },
       {
-         "Characters": "Caliban",
+         "Play": "The Tempest",
+         "Character": "Caliban",
          "Words": 1345
       },
       {
-         "Characters": "Stephano",
+         "Play": "The Tempest",
+         "Character": "Stephano",
          "Words": 1299
       },
       {
-         "Characters": "Gonzalo",
+         "Play": "The Tempest",
+         "Character": "Gonzalo",
          "Words": 1153
       },
       {
-         "Characters": "Ariel",
+         "Play": "The Tempest",
+         "Character": "Ariel",
          "Words": 1124
       },
       {
-         "Characters": "Ferdinand",
+         "Play": "The Tempest",
+         "Character": "Ferdinand",
          "Words": 1027
       },
       {
-         "Characters": "Antonio",
+         "Play": "The Tempest",
+         "Character": "Antonio",
          "Words": 973
       },
       {
-         "Characters": "Miranda",
+         "Play": "The Tempest",
+         "Character": "Miranda",
          "Words": 910
       },
       {
-         "Characters": "Trinculo",
+         "Play": "The Tempest",
+         "Character": "Trinculo",
          "Words": 818
       },
       {
-         "Characters": "Alonso",
+         "Play": "The Tempest",
+         "Character": "Alonso",
          "Words": 747
       },
       {
-         "Characters": "Sebastian",
+         "Play": "The Tempest",
+         "Character": "Sebastian",
          "Words": 707
       },
       {
-         "Characters": "Boatswain",
+         "Play": "The Tempest",
+         "Character": "Boatswain",
          "Words": 349
       },
       {
-         "Characters": "Iris",
+         "Play": "The Tempest",
+         "Character": "Iris",
          "Words": 293
       },
       {
-         "Characters": "Ceres",
+         "Play": "The Tempest",
+         "Character": "Ceres",
          "Words": 154
       },
       {
-         "Characters": "Francisco",
+         "Play": "The Tempest",
+         "Character": "Francisco",
          "Words": 79
       },
       {
-         "Characters": "Adrian",
+         "Play": "The Tempest",
+         "Character": "Adrian",
          "Words": 64
       },
       {
-         "Characters": "Juno",
+         "Play": "The Tempest",
+         "Character": "Juno",
          "Words": 41
       },
       {
-         "Characters": "Master",
+         "Play": "The Tempest",
+         "Character": "Master",
          "Words": 16
       },
       {
-         "Characters": "Mariners",
+         "Play": "The Tempest",
+         "Character": "Mariners",
          "Words": 8
-      }
-   ],
-   "Troilus and Cressida": [
+      },
       {
-         "Characters": "Troilus",
+         "Play": "Troilus and Cressida",
+         "Character": "Troilus",
          "Words": 3949
       },
       {
-         "Characters": "Ulysses",
+         "Play": "Troilus and Cressida",
+         "Character": "Ulysses",
          "Words": 3514
       },
       {
-         "Characters": "Pandarus",
+         "Play": "Troilus and Cressida",
+         "Character": "Pandarus",
          "Words": 3145
       },
       {
-         "Characters": "Thersites",
+         "Play": "Troilus and Cressida",
+         "Character": "Thersites",
          "Words": 2287
       },
       {
-         "Characters": "Cressida",
+         "Play": "Troilus and Cressida",
+         "Character": "Cressida",
          "Words": 2109
       },
       {
-         "Characters": "Hector",
+         "Play": "Troilus and Cressida",
+         "Character": "Hector",
          "Words": 1528
       },
       {
-         "Characters": "Agamemnon",
+         "Play": "Troilus and Cressida",
+         "Character": "Agamemnon",
          "Words": 1396
       },
       {
-         "Characters": "Achilles",
+         "Play": "Troilus and Cressida",
+         "Character": "Achilles",
          "Words": 1300
       },
       {
-         "Characters": "Nestor",
+         "Play": "Troilus and Cressida",
+         "Character": "Nestor",
          "Words": 1132
       },
       {
-         "Characters": "Aeneas",
+         "Play": "Troilus and Cressida",
+         "Character": "Aeneas",
          "Words": 1041
       },
       {
-         "Characters": "Paris",
+         "Play": "Troilus and Cressida",
+         "Character": "Paris",
          "Words": 720
       },
       {
-         "Characters": "Diomedes",
+         "Play": "Troilus and Cressida",
+         "Character": "Diomedes",
          "Words": 693
       },
       {
-         "Characters": "Ajax",
+         "Play": "Troilus and Cressida",
+         "Character": "Ajax",
          "Words": 534
       },
       {
-         "Characters": "Patroclus",
+         "Play": "Troilus and Cressida",
+         "Character": "Patroclus",
          "Words": 405
       },
       {
-         "Characters": "Alexander",
+         "Play": "Troilus and Cressida",
+         "Character": "Alexander",
          "Words": 260
       },
       {
-         "Characters": "Cassandra",
+         "Play": "Troilus and Cressida",
+         "Character": "Cassandra",
          "Words": 258
       },
       {
-         "Characters": "Calchas",
+         "Play": "Troilus and Cressida",
+         "Character": "Calchas",
          "Words": 228
       },
       {
-         "Characters": "Helen",
+         "Play": "Troilus and Cressida",
+         "Character": "Helen",
          "Words": 175
       },
       {
-         "Characters": "Priam",
+         "Play": "Troilus and Cressida",
+         "Character": "Priam",
          "Words": 138
       },
       {
-         "Characters": "Servant",
+         "Play": "Troilus and Cressida",
+         "Character": "Servant",
          "Words": 119
       },
       {
-         "Characters": "Andromache",
+         "Play": "Troilus and Cressida",
+         "Character": "Andromache",
          "Words": 113
       },
       {
-         "Characters": "Menelaus",
+         "Play": "Troilus and Cressida",
+         "Character": "Menelaus",
          "Words": 79
       },
       {
-         "Characters": "Helenus",
+         "Play": "Troilus and Cressida",
+         "Character": "Helenus",
          "Words": 37
       },
       {
-         "Characters": "Boy",
+         "Play": "Troilus and Cressida",
+         "Character": "Boy",
          "Words": 26
       },
       {
-         "Characters": "Margarelon",
+         "Play": "Troilus and Cressida",
+         "Character": "Margarelon",
          "Words": 14
       },
       {
-         "Characters": "Deiphobus",
+         "Play": "Troilus and Cressida",
+         "Character": "Deiphobus",
          "Words": 10
-      }
-   ],
-   "Twelfth Night": [
+      },
       {
-         "Characters": "Sir Toby Belch",
+         "Play": "Twelfth Night",
+         "Character": "Sir Toby Belch",
          "Words": 2687
       },
       {
-         "Characters": "Viola",
+         "Play": "Twelfth Night",
+         "Character": "Viola",
          "Words": 2574
       },
       {
-         "Characters": "Feste",
+         "Play": "Twelfth Night",
+         "Character": "Feste",
          "Words": 2432
       },
       {
-         "Characters": "Olivia",
+         "Play": "Twelfth Night",
+         "Character": "Olivia",
          "Words": 2320
       },
       {
-         "Characters": "Malvolio",
+         "Play": "Twelfth Night",
+         "Character": "Malvolio",
          "Words": 2214
       },
       {
-         "Characters": "Duke Orsino",
+         "Play": "Twelfth Night",
+         "Character": "Duke Orsino",
          "Words": 1621
       },
       {
-         "Characters": "Maria",
+         "Play": "Twelfth Night",
+         "Character": "Maria",
          "Words": 1213
       },
       {
-         "Characters": "Sir Andrew",
+         "Play": "Twelfth Night",
+         "Character": "Sir Andrew",
          "Words": 1163
       },
       {
-         "Characters": "Sebastian",
+         "Play": "Twelfth Night",
+         "Character": "Sebastian",
          "Words": 1015
       },
       {
-         "Characters": "Fabian",
+         "Play": "Twelfth Night",
+         "Character": "Fabian",
          "Words": 854
       },
       {
-         "Characters": "Antonio",
+         "Play": "Twelfth Night",
+         "Character": "Antonio",
          "Words": 795
       },
       {
-         "Characters": "Captain",
+         "Play": "Twelfth Night",
+         "Character": "Captain",
          "Words": 238
       },
       {
-         "Characters": "Valentine",
+         "Play": "Twelfth Night",
+         "Character": "Valentine",
          "Words": 102
       },
       {
-         "Characters": "First Officer",
+         "Play": "Twelfth Night",
+         "Character": "First Officer",
          "Words": 100
       },
       {
-         "Characters": "Priest",
+         "Play": "Twelfth Night",
+         "Character": "Priest",
          "Words": 57
       },
       {
-         "Characters": "Curio",
+         "Play": "Twelfth Night",
+         "Character": "Curio",
          "Words": 41
       },
       {
-         "Characters": "Servant",
+         "Play": "Twelfth Night",
+         "Character": "Servant",
          "Words": 21
       },
       {
-         "Characters": "Second Officer",
+         "Play": "Twelfth Night",
+         "Character": "Second Officer",
          "Words": 19
-      }
-   ],
-   "Two Gentlemen of Verona": [
+      },
       {
-         "Characters": "Proteus",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Proteus",
          "Words": 3256
       },
       {
-         "Characters": "Valentine",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Valentine",
          "Words": 2819
       },
       {
-         "Characters": "Julia",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Julia",
          "Words": 2415
       },
       {
-         "Characters": "Launce",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Launce",
          "Words": 1838
       },
       {
-         "Characters": "Duke",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Duke",
          "Words": 1528
       },
       {
-         "Characters": "Speed",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Speed",
          "Words": 1455
       },
       {
-         "Characters": "Silvia",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Silvia",
          "Words": 1137
       },
       {
-         "Characters": "Lucetta",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Lucetta",
          "Words": 557
       },
       {
-         "Characters": "Thurio",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Thurio",
          "Words": 382
       },
       {
-         "Characters": "Panthino",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Panthino",
          "Words": 310
       },
       {
-         "Characters": "Antonio",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Antonio",
          "Words": 262
       },
       {
-         "Characters": "Host",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Host",
          "Words": 243
       },
       {
-         "Characters": "Third Outlaw",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Third Outlaw",
          "Words": 209
       },
       {
-         "Characters": "Eglamour",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Eglamour",
          "Words": 192
       },
       {
-         "Characters": "First Outlaw",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "First Outlaw",
          "Words": 158
       },
       {
-         "Characters": "Second Outlaw",
+         "Play": "Two Gentlemen of Verona",
+         "Character": "Second Outlaw",
          "Words": 103
-      }
-   ],
-   "The Winter's Tale": [
+      },
       {
-         "Characters": "Leontes",
+         "Play": "The Winter's Tale",
+         "Character": "Leontes",
          "Words": 4841
       },
       {
-         "Characters": "Autolycus",
+         "Play": "The Winter's Tale",
+         "Character": "Autolycus",
          "Words": 2389
       },
       {
-         "Characters": "Paulina",
+         "Play": "The Winter's Tale",
+         "Character": "Paulina",
          "Words": 2362
       },
       {
-         "Characters": "Camillo",
+         "Play": "The Winter's Tale",
+         "Character": "Camillo",
          "Words": 2083
       },
       {
-         "Characters": "Polixenes",
+         "Play": "The Winter's Tale",
+         "Character": "Polixenes",
          "Words": 1961
       },
       {
-         "Characters": "Clown",
+         "Play": "The Winter's Tale",
+         "Character": "Clown",
          "Words": 1589
       },
       {
-         "Characters": "Hermione",
+         "Play": "The Winter's Tale",
+         "Character": "Hermione",
          "Words": 1574
       },
       {
-         "Characters": "Florizel",
+         "Play": "The Winter's Tale",
+         "Character": "Florizel",
          "Words": 1389
       },
       {
-         "Characters": "Shepherd",
+         "Play": "The Winter's Tale",
+         "Character": "Shepherd",
          "Words": 1064
       },
       {
-         "Characters": "Perdita",
+         "Play": "The Winter's Tale",
+         "Character": "Perdita",
          "Words": 896
       },
       {
-         "Characters": "Antigonus",
+         "Play": "The Winter's Tale",
+         "Character": "Antigonus",
          "Words": 783
       },
       {
-         "Characters": "Third Gentleman",
+         "Play": "The Winter's Tale",
+         "Character": "Third Gentleman",
          "Words": 592
       },
       {
-         "Characters": "Servant",
+         "Play": "The Winter's Tale",
+         "Character": "Servant",
          "Words": 375
       },
       {
-         "Characters": "Time",
+         "Play": "The Winter's Tale",
+         "Character": "Time",
          "Words": 266
       },
       {
-         "Characters": "First Lord",
+         "Play": "The Winter's Tale",
+         "Character": "First Lord",
          "Words": 241
       },
       {
-         "Characters": "First Gentleman",
+         "Play": "The Winter's Tale",
+         "Character": "First Gentleman",
          "Words": 221
       },
       {
-         "Characters": "Officer",
+         "Play": "The Winter's Tale",
+         "Character": "Officer",
          "Words": 192
       },
       {
-         "Characters": "Dion",
+         "Play": "The Winter's Tale",
+         "Character": "Dion",
          "Words": 187
       },
       {
-         "Characters": "Archidamus",
+         "Play": "The Winter's Tale",
+         "Character": "Archidamus",
          "Words": 174
       },
       {
-         "Characters": "Lord",
+         "Play": "The Winter's Tale",
+         "Character": "Lord",
          "Words": 171
       },
       {
-         "Characters": "Mamillius",
+         "Play": "The Winter's Tale",
+         "Character": "Mamillius",
          "Words": 150
       },
       {
-         "Characters": "Mopsa",
+         "Play": "The Winter's Tale",
+         "Character": "Mopsa",
          "Words": 142
       },
       {
-         "Characters": "Emilia",
+         "Play": "The Winter's Tale",
+         "Character": "Emilia",
          "Words": 141
       },
       {
-         "Characters": "Cleomenes",
+         "Play": "The Winter's Tale",
+         "Character": "Cleomenes",
          "Words": 140
       },
       {
-         "Characters": "Second Gentleman",
+         "Play": "The Winter's Tale",
+         "Character": "Second Gentleman",
          "Words": 125
       },
       {
-         "Characters": "Gentleman",
+         "Play": "The Winter's Tale",
+         "Character": "Gentleman",
          "Words": 118
       },
       {
-         "Characters": "Mariner",
+         "Play": "The Winter's Tale",
+         "Character": "Mariner",
          "Words": 79
       },
       {
-         "Characters": "Gaoler",
+         "Play": "The Winter's Tale",
+         "Character": "Gaoler",
          "Words": 71
       },
       {
-         "Characters": "Dorcas",
+         "Play": "The Winter's Tale",
+         "Character": "Dorcas",
          "Words": 66
       },
       {
-         "Characters": "First Lady",
+         "Play": "The Winter's Tale",
+         "Character": "First Lady",
          "Words": 49
       },
       {
-         "Characters": "Second Lady",
+         "Play": "The Winter's Tale",
+         "Character": "Second Lady",
          "Words": 22
       },
       {
-         "Characters": "Lords",
+         "Play": "The Winter's Tale",
+         "Character": "Lords",
          "Words": 19
       },
       {
-         "Characters": "First Servant",
+         "Play": "The Winter's Tale",
+         "Character": "First Servant",
          "Words": 13
       },
       {
-         "Characters": "Second Servant",
+         "Play": "The Winter's Tale",
+         "Character": "Second Servant",
          "Words": 12
-      }
-   ],
-   "Henry IV, Part I": [
+      },
       {
-         "Characters": "Falstaff",
+         "Play": "Henry IV, Part I",
+         "Character": "Falstaff",
          "Words": 5502
       },
       {
-         "Characters": "Prince Henry",
+         "Play": "Henry IV, Part I",
+         "Character": "Prince Henry",
          "Words": 4362
       },
       {
-         "Characters": "Hotspur",
+         "Play": "Henry IV, Part I",
+         "Character": "Hotspur",
          "Words": 4309
       },
       {
-         "Characters": "King Henry IV",
+         "Play": "Henry IV, Part I",
+         "Character": "King Henry IV",
          "Words": 2557
       },
       {
-         "Characters": "Earl Of Worcester",
+         "Play": "Henry IV, Part I",
+         "Character": "Earl Of Worcester",
          "Words": 1420
       },
       {
-         "Characters": "Glendower",
+         "Play": "Henry IV, Part I",
+         "Character": "Glendower",
          "Words": 607
       },
       {
-         "Characters": "Poins",
+         "Play": "Henry IV, Part I",
+         "Character": "Poins",
          "Words": 548
       },
       {
-         "Characters": "Vernon",
+         "Play": "Henry IV, Part I",
+         "Character": "Vernon",
          "Words": 461
       },
       {
-         "Characters": "Mortimer",
+         "Play": "Henry IV, Part I",
+         "Character": "Mortimer",
          "Words": 445
       },
       {
-         "Characters": "Lady Percy",
+         "Play": "Henry IV, Part I",
+         "Character": "Lady Percy",
          "Words": 418
       },
       {
-         "Characters": "Hostess",
+         "Play": "Henry IV, Part I",
+         "Character": "Hostess",
          "Words": 412
       },
       {
-         "Characters": "Earl Of Douglas",
+         "Play": "Henry IV, Part I",
+         "Character": "Earl Of Douglas",
          "Words": 341
       },
       {
-         "Characters": "Gadshill",
+         "Play": "Henry IV, Part I",
+         "Character": "Gadshill",
          "Words": 341
       },
       {
-         "Characters": "Sir Walter Blunt",
+         "Play": "Henry IV, Part I",
+         "Character": "Sir Walter Blunt",
          "Words": 299
       },
       {
-         "Characters": "Westmoreland",
+         "Play": "Henry IV, Part I",
+         "Character": "Westmoreland",
          "Words": 295
       },
       {
-         "Characters": "Archbishop Of York",
+         "Play": "Henry IV, Part I",
+         "Character": "Archbishop Of York",
          "Words": 258
       },
       {
-         "Characters": "Bardolph",
+         "Play": "Henry IV, Part I",
+         "Character": "Bardolph",
          "Words": 200
       },
       {
-         "Characters": "First Carrier",
+         "Play": "Henry IV, Part I",
+         "Character": "First Carrier",
          "Words": 178
       },
       {
-         "Characters": "Northumberland",
+         "Play": "Henry IV, Part I",
+         "Character": "Northumberland",
          "Words": 169
       },
       {
-         "Characters": "Chamberlain",
+         "Play": "Henry IV, Part I",
+         "Character": "Chamberlain",
          "Words": 148
       },
       {
-         "Characters": "Second Carrier",
+         "Play": "Henry IV, Part I",
+         "Character": "Second Carrier",
          "Words": 143
       },
       {
-         "Characters": "Peto",
+         "Play": "Henry IV, Part I",
+         "Character": "Peto",
          "Words": 94
       },
       {
-         "Characters": "Francis",
+         "Play": "Henry IV, Part I",
+         "Character": "Francis",
          "Words": 82
       },
       {
-         "Characters": "Lancaster",
+         "Play": "Henry IV, Part I",
+         "Character": "Lancaster",
          "Words": 64
       },
       {
-         "Characters": "Messenger",
+         "Play": "Henry IV, Part I",
+         "Character": "Messenger",
          "Words": 64
       },
       {
-         "Characters": "Sheriff",
+         "Play": "Henry IV, Part I",
+         "Character": "Sheriff",
          "Words": 59
       },
       {
-         "Characters": "Sir Michael",
+         "Play": "Henry IV, Part I",
+         "Character": "Sir Michael",
          "Words": 53
       },
       {
-         "Characters": "Vintner",
+         "Play": "Henry IV, Part I",
+         "Character": "Vintner",
          "Words": 31
       },
       {
-         "Characters": "First Traveller",
+         "Play": "Henry IV, Part I",
+         "Character": "First Traveller",
          "Words": 19
       },
       {
-         "Characters": "Servant",
+         "Play": "Henry IV, Part I",
+         "Character": "Servant",
          "Words": 19
       },
       {
-         "Characters": "Travellers",
+         "Play": "Henry IV, Part I",
+         "Character": "Travellers",
          "Words": 13
       },
       {
-         "Characters": "Ostler",
+         "Play": "Henry IV, Part I",
+         "Character": "Ostler",
          "Words": 2
       },
       {
-         "Characters": "Thieves",
+         "Play": "Henry IV, Part I",
+         "Character": "Thieves",
          "Words": 1
-      }
-   ],
-   "Henry IV, Part II": [
+      },
       {
-         "Characters": "Falstaff",
+         "Play": "Henry IV, Part II",
+         "Character": "Falstaff",
          "Words": 6140
       },
       {
-         "Characters": "King Henry IV",
+         "Play": "Henry IV, Part II",
+         "Character": "King Henry IV",
          "Words": 2516
       },
       {
-         "Characters": "Prince Henry",
+         "Play": "Henry IV, Part II",
+         "Character": "Prince Henry",
          "Words": 1555
       },
       {
-         "Characters": "Shallow",
+         "Play": "Henry IV, Part II",
+         "Character": "Shallow",
          "Words": 1521
       },
       {
-         "Characters": "Mistress Quickly",
+         "Play": "Henry IV, Part II",
+         "Character": "Mistress Quickly",
          "Words": 1487
       },
       {
-         "Characters": "Archbishop Of York",
+         "Play": "Henry IV, Part II",
+         "Character": "Archbishop Of York",
          "Words": 1094
       },
       {
-         "Characters": "Northumberland",
+         "Play": "Henry IV, Part II",
+         "Character": "Northumberland",
          "Words": 856
       },
       {
-         "Characters": "Westmoreland",
+         "Play": "Henry IV, Part II",
+         "Character": "Westmoreland",
          "Words": 853
       },
       {
-         "Characters": "Lancaster",
+         "Play": "Henry IV, Part II",
+         "Character": "Lancaster",
          "Words": 826
       },
       {
-         "Characters": "King Henry V",
+         "Play": "Henry IV, Part II",
+         "Character": "King Henry V",
          "Words": 810
       },
       {
-         "Characters": "Warwick",
+         "Play": "Henry IV, Part II",
+         "Character": "Warwick",
          "Words": 661
       },
       {
-         "Characters": "Lord Bardolph",
+         "Play": "Henry IV, Part II",
+         "Character": "Lord Bardolph",
          "Words": 647
       },
       {
-         "Characters": "Doll Tearsheet",
+         "Play": "Henry IV, Part II",
+         "Character": "Doll Tearsheet",
          "Words": 634
       },
       {
-         "Characters": "Morton",
+         "Play": "Henry IV, Part II",
+         "Character": "Morton",
          "Words": 626
       },
       {
-         "Characters": "Pistol",
+         "Play": "Henry IV, Part II",
+         "Character": "Pistol",
          "Words": 551
       },
       {
-         "Characters": "Poins",
+         "Play": "Henry IV, Part II",
+         "Character": "Poins",
          "Words": 540
       },
       {
-         "Characters": "Mowbray",
+         "Play": "Henry IV, Part II",
+         "Character": "Mowbray",
          "Words": 434
       },
       {
-         "Characters": "Hastings",
+         "Play": "Henry IV, Part II",
+         "Character": "Hastings",
          "Words": 417
       },
       {
-         "Characters": "Lady Percy",
+         "Play": "Henry IV, Part II",
+         "Character": "Lady Percy",
          "Words": 372
       },
       {
-         "Characters": "Bardolph",
+         "Play": "Henry IV, Part II",
+         "Character": "Bardolph",
          "Words": 345
       },
       {
-         "Characters": "Rumour",
+         "Play": "Henry IV, Part II",
+         "Character": "Rumour",
          "Words": 297
       },
       {
-         "Characters": "Davy",
+         "Play": "Henry IV, Part II",
+         "Character": "Davy",
          "Words": 275
       },
       {
-         "Characters": "Silence",
+         "Play": "Henry IV, Part II",
+         "Character": "Silence",
          "Words": 258
       },
       {
-         "Characters": "Page",
+         "Play": "Henry IV, Part II",
+         "Character": "Page",
          "Words": 228
       },
       {
-         "Characters": "Clarence",
+         "Play": "Henry IV, Part II",
+         "Character": "Clarence",
          "Words": 218
       },
       {
-         "Characters": "Travers",
+         "Play": "Henry IV, Part II",
+         "Character": "Travers",
          "Words": 120
       },
       {
-         "Characters": "Gloucester",
+         "Play": "Henry IV, Part II",
+         "Character": "Gloucester",
          "Words": 112
       },
       {
-         "Characters": "Servant",
+         "Play": "Henry IV, Part II",
+         "Character": "Servant",
          "Words": 112
       },
       {
-         "Characters": "Bullcalf",
+         "Play": "Henry IV, Part II",
+         "Character": "Bullcalf",
          "Words": 109
       },
       {
-         "Characters": "Second Drawer",
+         "Play": "Henry IV, Part II",
+         "Character": "Second Drawer",
          "Words": 95
       },
       {
-         "Characters": "Mouldy",
+         "Play": "Henry IV, Part II",
+         "Character": "Mouldy",
          "Words": 94
       },
       {
-         "Characters": "Feeble",
+         "Play": "Henry IV, Part II",
+         "Character": "Feeble",
          "Words": 93
       },
       {
-         "Characters": "Gower",
+         "Play": "Henry IV, Part II",
+         "Character": "Gower",
          "Words": 77
       },
       {
-         "Characters": "First Drawer",
+         "Play": "Henry IV, Part II",
+         "Character": "First Drawer",
          "Words": 75
       },
       {
-         "Characters": "First Beadle",
+         "Play": "Henry IV, Part II",
+         "Character": "First Beadle",
          "Words": 72
       },
       {
-         "Characters": "Colevile",
+         "Play": "Henry IV, Part II",
+         "Character": "Colevile",
          "Words": 64
       },
       {
-         "Characters": "Harcourt",
+         "Play": "Henry IV, Part II",
+         "Character": "Harcourt",
          "Words": 64
       },
       {
-         "Characters": "Fang",
+         "Play": "Henry IV, Part II",
+         "Character": "Fang",
          "Words": 53
       },
       {
-         "Characters": "Peto",
+         "Play": "Henry IV, Part II",
+         "Character": "Peto",
          "Words": 45
       },
       {
-         "Characters": "Shadow",
+         "Play": "Henry IV, Part II",
+         "Character": "Shadow",
          "Words": 34
       },
       {
-         "Characters": "Messenger",
+         "Play": "Henry IV, Part II",
+         "Character": "Messenger",
          "Words": 33
       },
       {
-         "Characters": "Porter",
+         "Play": "Henry IV, Part II",
+         "Character": "Porter",
          "Words": 28
       },
       {
-         "Characters": "First Groom",
+         "Play": "Henry IV, Part II",
+         "Character": "First Groom",
          "Words": 16
       },
       {
-         "Characters": "Snare",
+         "Play": "Henry IV, Part II",
+         "Character": "Snare",
          "Words": 15
       },
       {
-         "Characters": "Princes",
+         "Play": "Henry IV, Part II",
+         "Character": "Princes",
          "Words": 7
       },
       {
-         "Characters": "Second Groom",
+         "Play": "Henry IV, Part II",
+         "Character": "Second Groom",
          "Words": 5
       },
       {
-         "Characters": "Wart",
+         "Play": "Henry IV, Part II",
+         "Character": "Wart",
          "Words": 4
       },
       {
-         "Characters": "Gloucesterclarence",
+         "Play": "Henry IV, Part II",
+         "Character": "Gloucesterclarence",
          "Words": 3
       },
       {
-         "Characters": "Prince Henrypoins",
+         "Play": "Henry IV, Part II",
+         "Character": "Prince Henrypoins",
          "Words": 3
       }
    ]
